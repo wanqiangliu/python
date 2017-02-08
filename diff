@@ -1,0 +1,3 @@
+python3与python2的不同
+1、python3中print是一个函数必须以print()出现
+2、python2中print是一个关键字所以有些语句包含括号有些不包含
