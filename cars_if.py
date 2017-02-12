@@ -1,0 +1,7 @@
+#if的基本语法
+cars = ['bmw','subaru','audi','toyota']
+for car in cars:
+	if car == 'bmw':
+		print(car.upper())
+	else:
+		print(car.title())
