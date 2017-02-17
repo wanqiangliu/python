@@ -3,3 +3,7 @@ python3与python2的不同
    python2中print是一个关键字所以有些语句包含括号有些不包含y
 2、python2中 3/2结果为1 需要改为3.0/2或3/2.0或3.0/2.0   16/2显示为8
    python3中 3/2结果为1.5  16/2显示为8.0而不是8
+3、python2.7在定义类时需要以如下格式：
+class Dog(object):
+python3中定义类为如下格式:
+class Dog():
