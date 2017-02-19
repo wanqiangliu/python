@@ -15,3 +15,8 @@ class ElectricCar(Car):
 class ElectricCar(Car):
 	def __init__(self,make,model,year):
 		super().__init__(make,model,year)
+5、linux和os x中文件路径用/而在windows中文件路径用\
+linux/os x:
+with open('text_file/filename.txt') as file_object:
+windows:
+with open('text_file\filename.txt') as file_object:

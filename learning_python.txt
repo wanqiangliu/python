@@ -1,0 +1,3 @@
+In Python you can learn def.
+In Python you can learn class.
+In Python you can learn except.
